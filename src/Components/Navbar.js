@@ -16,7 +16,7 @@ function Navbar(props) {
         <>
         <header className="navbar">
             <div
-                className="flex items-center justify-between h-16  px-4 mx-auto"
+                className="flex items-center justify-between h-16  px-1 mx-auto"
             >
                 <div className="flex flex-1 w-0 lg:hidden">
                     <button className="p-2 text-gray-600 bg-gray-100 rounded-full" type="button">
