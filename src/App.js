@@ -1,14 +1,20 @@
-import logo from './logo.svg';
+import Navbar from './Components/Navbar';
+import Display from './Components/Display';
 import './App.css';
+import {useState} from 'react';
+const API_KEY = '28fbc5661601150b79645b7c6c922940';
 
 function App() {
+  const [data, setData] = useState(null);
+  const handleCallback = (childData) =>{
+    setData({childData});
+  }
+
   return (
-    <div className="WeatherApp">
-      <h1>This is the WeatherToday site!</h1>
-      <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-    </div>
+    <>
+    <Navbar parentCallback = {handleCallback}/>
+    <Display dispData={data}/>
+    </>
   );
 }
 
