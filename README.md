@@ -2,7 +2,7 @@
 ---
 ### Deployed site : 
 
-![](https://imgur.com/YEM8krT.mp4)
+https://user-images.githubusercontent.com/47355538/167667902-417e43d1-9148-4118-bf5b-7693d39274fd.mp4
 
 https://lucky-fenglisu-93f506.netlify.app/
 
