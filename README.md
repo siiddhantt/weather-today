@@ -49,3 +49,7 @@ Geocoding is the process of transformation of any location name into geographica
 `$http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid={API key}` (Direct geocoding)
 
 `$http://api.openweathermap.org/geo/1.0/reverse?lat={lat}&lon={lon}&limit={limit}&appid={API key}` (Reverse geocoding)
+
+### Framework Used :
+
+Tailwind CSS
