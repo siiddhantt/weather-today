@@ -1,5 +1,15 @@
 WeatherToday - ReactJS Weather App
 
+Deployed site : 
+
+                https://lucky-fenglisu-93f506.netlify.app/
+
+                https://siiddhantt.github.io/weather-today/
+                
+               
+   (Note - You might have to disable secure content/connection in your browser.Works in desktop browsers.)
+                
+
 APIs Used
 
 One Call API 1.0
