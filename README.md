@@ -2,7 +2,7 @@
 ---
 ### Deployed site : 
 
-![](https://imgur.com/qbosJYQ.gif)
+![simplescreenrecorder-2022-05-10_19 32 43](https://user-images.githubusercontent.com/47355538/167666082-ab5d3a9b-7463-4b96-affa-f74b4ec8a037.gif)
 
 https://lucky-fenglisu-93f506.netlify.app/
 
