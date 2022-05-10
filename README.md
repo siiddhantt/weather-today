@@ -13,7 +13,7 @@ https://siiddhantt.github.io/weather-today/
 >Note : You might have to disable secure content/connection in your browser for this page. Works in desktop browsers.
 
 
-                ![Screenshot from 2022-05-10 21-16-27](https://user-images.githubusercontent.com/47355538/167669837-10dba694-6bf8-45ea-99d9-7b663088a674.png)
+![Screenshot from 2022-05-10 21-16-27](https://user-images.githubusercontent.com/47355538/167669837-10dba694-6bf8-45ea-99d9-7b663088a674.png)
 
 
 ### APIs used :
